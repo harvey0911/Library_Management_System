@@ -68,7 +68,7 @@ public class Main {
         Member m5= new Member();
 
 
-        System.out.println("--------------------");
+        System.out.println("--------------------\n");
 
         m1.Book_item(b1);
 
